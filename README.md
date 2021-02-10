@@ -21,6 +21,7 @@ Basic task of ANNs using python is performed
 1. Create perceptron that handel Logical Gate AND or OR having 2 inputs and 1 output, and return Weights.
 2. Same above task with using bais input
 3. Cerate perceptron which can handel any numaric dataset with 1 target output, and return weights if completely learned otherwise become infinite loop as there is no "Epochs" introduced.
+
 4.ANN on XOR training and IRIS dataset using Keras, (Created the ANN structure of own choice.)
 
 # ML Project
